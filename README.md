@@ -1,8 +1,8 @@
-# Sudoku-Project
-
-## Fork Repository Instructions
-### Steps:
-1. When you go to the github repository we provided, on the top right hand corner of the screen, there is a button that says "Fork". That will fork the repo to your own github 
-2. Use the link https://github.com/new/import to clone your forked repo to make it private. You will work on the project by adding your own files to this private repository.
-
+## How to Run
+1. Clone the repository to your local machine.
+2. Open a terminal in the project directory.
+3. Create a virtual environment: `python3 -m venv venv`
+4. Activate the virtual environment: `source venv/bin/activate`
+5. Install the required packages: `pip install -r requirements.txt`
+6. Run the application: `python3 sudoku.py`
 
